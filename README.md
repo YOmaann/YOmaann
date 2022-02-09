@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-  <table>
-  <tr style="border-radius: 5px">
+  <table style="float: right;">
+  <tr>
     <td>
 <img src="./indebx.png" style = "height: 200px; width: auto;">
     </td>
