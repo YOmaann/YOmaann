@@ -3,8 +3,8 @@
   <table>
   <tr>
     <td style="line-height: 100px;">
-- 👨🏻‍💻 I’m currently working on MERN<br>
-- 🚣🏻 I’m currently learning JS, C++<br>
+- 👨🏻‍💻 I’m currently studying<br>
+- 🚣🏻 I’m currently learning JS, C+, MERN+<br>
 - 👯 I’m looking to collaborate on Web Dev<br>
     </td>
         <td>
