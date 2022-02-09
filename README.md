@@ -1,10 +1,14 @@
 ### Hi there 👋
 
-<p>
+  <table>
+  <tr>
+    <td>
 <img src="./indebx.png" style = "height: 300px; float: right; clear: none;">
-<p style="">
+    </td>
+    <td>
 - 🔭 I’m currently working on MERN
 - 🌱 I’m currently learning JS, C++
 - 👯 I’m looking to collaborate on Web Dev
-</p>
-</p>
+    </td>
+  </tr>
+</table>
