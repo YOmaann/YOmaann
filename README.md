@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-  <table style="margin-left: 50px;">
+  <table style="margin-left: 1000px;">
   <tr>
     <td>
 <img src="./indebx.png" style = "height: 200px; width: auto;">
