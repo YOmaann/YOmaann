@@ -1,6 +1,6 @@
 ### Hello 🐱
 <div align="center">
-  <table border="1.1px">
+  <table>
   <tr>
     <td>
       <div align="left">
