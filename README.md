@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-  <table style="float: right;">
+  <table style="margin-left: 50px;">
   <tr>
     <td>
 <img src="./indebx.png" style = "height: 200px; width: auto;">
