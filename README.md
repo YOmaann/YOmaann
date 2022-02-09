@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-  <table>
-  <tr>
-    <td>
-<img src="./indebx.png" style = "height: 300px; float: right; clear: none;">
+  <table style="border: 0;">
+  <tr style="border: 0">
+    <td style="border: 0; padding: 10px;">
+<img src="./indebx.png" style = "height: 500px">
     </td>
     <td>
 - 🔭 I’m currently working on MERN
