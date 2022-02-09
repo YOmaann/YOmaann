@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-  <table style="margin-left: 1000px;">
+  <table>
   <tr>
     <td>
-<img src="./indebx.png" style = "height: 200px; width: auto;">
+<img src="./indebx.png" style = "height: 300px; width: auto;">
     </td>
-    <td>
+    <td style="line-height: 100px;">
 - 🔭 I’m currently working on MERN<br>
 - 🌱 I’m currently learning JS, C++<br>
 - 👯 I’m looking to collaborate on Web Dev<br>
