@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-  <table>
+  <table style="padding: 0px;">
   <tr style="padding: 0px;">
     <td style="padding: 0px;">
 <img src="./indebx.png" style = "height: 200px; width: auto;">
