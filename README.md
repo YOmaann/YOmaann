@@ -1,8 +1,8 @@
 ### Hi there 👋
 
   <table>
-  <tr>
-    <td style="padding: 30px;">
+  <tr style="padding: 0px;">
+    <td style="padding: 0px;">
 <img src="./indebx.png" style = "height: 200px; width: auto;">
     </td>
     <td>
