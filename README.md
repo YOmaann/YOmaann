@@ -5,4 +5,4 @@
 - 🌱 I’m currently learning JS, C++
 - 👯 I’m looking to collaborate on Web Dev
 
-<img src="./marin.svg">
+<img src="./indebx.png">
