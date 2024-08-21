@@ -13,7 +13,7 @@
       </div>
     </td>
         <td>
-<!-- <img src="./indebx.png" style = "height: 300px; width: auto;"> -->
+<img src="./pfp.png" style = "height: 300px; width: auto;">
     </td>
   </tr>
 </table>
